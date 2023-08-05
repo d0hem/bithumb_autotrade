@@ -3,8 +3,8 @@ import requests
 import math
 import pybithumb
 from pybithumb import Bithumb
-api_key = "de246c00d63f77edd68eeb25c5d3d0b4"
-secret_key = "3516a2f1f143a32c0b0af1ecd96b3d51"
+api_key = ""
+secret_key = ""
 
 bithumb = Bithumb(api_key, secret_key)
 
